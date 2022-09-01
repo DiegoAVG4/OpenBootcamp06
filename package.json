@@ -1,0 +1,15 @@
+{
+  "name": "listas",
+  "version": "1.0.0",
+  "description": "Listas, Metodos y ordenacion de listas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "listas",
+    "metodos"
+  ],
+  "author": "DiegoAVG",
+  "license": "ISC"
+}
